@@ -1,7 +1,7 @@
 # VRC-Footstep-Sound-System
 
 ## Overview
-This is a system that allows you to quickly and easily add sounds to a player's footsteps when walking on a surface. For example, you can have a player make wooden floor footstep sounds when walking on a wooden floor.
+This is a system that allows you to quickly and easily add sounds to a player's footsteps when walking on a surface. For example, you can have a player make wooden floor footstep sounds when walking on a wooden floor. This is nice to have if you want to add an extra level of immersion to your worlds!
 
 This is being made free to use by the community and you may alter and improve the package as you wish. All I ask is that, if you alter the package and wish to distribute it, that you do so freely. There is no need to credit me, you may do so if you wish however.
 
@@ -24,3 +24,4 @@ It is VERY important that you have [Udonsharp](https://github.com/vrchat-communi
 3. Assign an audio clip to the AudioClip field of the Audio Source. (Circled in yellow) *Note: For best results, choose an audio clip that is short (Like roughly one second long) and loops seamlessly
 4. Ensure none of the checkboxes are marked. (Circled in magenta), unless you need them marked, in that case, go ahead, I won't stop you.
 ![Desktop Screenshot 2022 11 28 - 00 42 29 761](https://user-images.githubusercontent.com/99851805/204313923-472ffca8-7e8a-484b-be0c-e64d581e9a11.png)
+5. Once that is all set-up, then congratulations! You should now, hopefully, have a nice footstep sound system running!
