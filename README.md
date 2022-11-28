@@ -13,4 +13,5 @@ It is VERY important that you have [Udonsharp](https://github.com/vrchat-communi
 ## Set-Up
 1. Once you've imported or setup the Udonsharp package, import the Footstep Sound System package into Unity.
 2. Open the Footstep Sound System folder and drag out the prefab
+![Desktop Screenshot 2022 11 281 - 00 42 29 76](https://user-images.githubusercontent.com/99851805/204312024-f144c8a8-2dea-4da7-b77a-bcd1b90ff944.png)
 3. Once you've done that, you are largely done! All you have to do now is assign Audio Sources to the surfaces that will be walked on.
