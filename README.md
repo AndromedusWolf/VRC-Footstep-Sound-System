@@ -22,6 +22,7 @@ It is VERY important that you have [Udonsharp](https://github.com/vrchat-communi
 1. Ensure that the surface to be walked on has a collider attached to it. (Circled in blue)
 2. Add an Audio Source to the surface. Do this by scrolling to the bottom of the inspector, clicking "Add Component" and picking Audio Source. (Circled in red)
 3. Assign an audio clip to the AudioClip field of the Audio Source. (Circled in yellow)
+
 *Note: For best results, choose an audio clip that is short (Like roughly one second long) and loops seamlessly
 4. Ensure none of the checkboxes are marked. (Circled in magenta), unless you need them marked, in that case, go ahead, I won't stop you.
 ![Desktop Screenshot 2022 11 28 - 00 42 29 761](https://user-images.githubusercontent.com/99851805/204313923-472ffca8-7e8a-484b-be0c-e64d581e9a11.png)
