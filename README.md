@@ -7,7 +7,7 @@ This is being made free to use by the community and you may alter and improve th
 
 
 ## Dependencies
-It is VERY important that you have [Udonsharp](https://github.com/vrchat-community/UdonSharp) downloaded already before downloading this package! The Footstep Sound System package won't work without it!
+It is VERY important that you have [Udonsharp](https://github.com/vrchat-community/UdonSharp) downloaded (or chosen if you are using the VRC Creator Companion) already before downloading this package! The Footstep Sound System package won't work without it!
 
 
 ## Set-Up Footstep Sound System
